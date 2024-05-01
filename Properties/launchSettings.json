@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "InnoRender": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Rhino 8\\System\\Rhino.exe",
+      "commandLineArgs": "$(TargetPath)"
+    }
+  }
+}
